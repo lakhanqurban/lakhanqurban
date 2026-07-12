@@ -86,15 +86,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=Gu2DNYsA
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakhanqurban&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakhanqurban&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 ### 🎤 Conferences & Service
 
 - Presenter — SANER 2026 (Cyprus), ICSE 2025 (Ottawa), QRS 2024 (Cambridge, UK)
