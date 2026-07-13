@@ -26,8 +26,6 @@ PhD in Computer Science at the **University of Milano-Bicocca** (2023–2026), d
 - **Interoperability** — bridging simulation formats and toolchains across heterogeneous CPS environments
 - **Empirical software engineering** — large-scale studies of testing practice in real-world DL/AI codebases
 
-Visiting researcher at **TUM (Technical University of Munich)** and **Fortiss**, 2024, working on cross-platform interoperability for autonomous systems experimentation.
-
 ---
 
 ### 📄 Selected Publications
@@ -53,7 +51,6 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=Gu2DNYsA
 | 📍 [**sensor-fusion-localization**](https://github.com/lakhanqurban/sensor-fusion-localization) | Confidence-weighted GNSS-camera sensor fusion; benchmarks EKF, UKF, and PF estimators across synthetic and replay scenarios |
 | 🧠 [**ads-mlops-pipeline**](https://github.com/lakhanqurban/ads-mlops-pipeline) | End-to-end MLOps pipeline for ADS: dataset prep, NVIDIA DAVE-2 model training, simulator-based validation for steering-angle prediction |
 | ⚠️ [**fault-inject**](https://github.com/lakhanqurban/fault-inject) | Configurable geometric fault injector for stress-testing ADS under map corruption and localization failure |
-| 🧬 [**PDLTesting**](https://github.com/lakhanqurban/PDLTesting) | Empirical study of DL system testing practices, mined from Python GitHub projects |
 
 ---
 
