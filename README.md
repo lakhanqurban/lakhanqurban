@@ -44,7 +44,8 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=Gu2DNYsA
 
 | Project | What it does |
 |---|---|
-| 📡 [**stl-monitor**](https://github.com/lakhanqurban/stl-monitor) | Runtime verification framework using Signal Temporal Logic (STL); quantitative robustness analysis across 1,000+ simulated scenarios |
+| 📡 [**vigilant**](https://github.com/lakhanqurban/vigilant) | A sensor fusion localization framework combining ORB-SLAM3 with Vision-Language Models to generate and evaluate evidence-grounded explanations of localization failures, on real-world KITTI sequences |
+| 📍 [**stl-monitor**](https://github.com/lakhanqurban/stl-monitor) | Runtime verification framework using Signal Temporal Logic (STL); quantitative robustness analysis across 1,000+ simulated scenarios |
 | 🛣️ [**prioritization**](https://github.com/lakhanqurban/prioritization) | Coverage-guided road selection and prioritization for efficient ADS testing (SANER 2026) |
 | 🗺️ [**OpenCat**](https://github.com/lakhanqurban/OpenCat) | OpenDRIVE → Catmull-Rom spline converter, improving interoperability across ADS simulation toolchains |
 | 🧭 [**vslam**](https://github.com/lakhanqurban/vslam) | Modular Visual SLAM framework — ORB feature extraction, loop-closure detection, trajectory refinement; 79% trajectory drift reduction, 92% loop-closure effectiveness |
