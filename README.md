@@ -44,8 +44,8 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=Gu2DNYsA
 
 | Project | What it does |
 |---|---|
-| 📡 [**vigilant**](https://github.com/lakhanqurban/vigilant) | A sensor fusion localization framework combining ORB-SLAM3 with Vision-Language Models to generate and evaluate evidence-grounded explanations of localization failures, on real-world KITTI sequences |
-| 📍 [**stl-monitor**](https://github.com/lakhanqurban/stl-monitor) | Runtime verification framework using Signal Temporal Logic (STL); quantitative robustness analysis across 1,000+ simulated scenarios |
+| 🛰️ [**vigilant**](https://github.com/lakhanqurban/vigilant) | A sensor fusion localization framework combining ORB-SLAM3 with Vision-Language Models to generate and evaluate evidence-grounded explanations of localization failures, on real-world KITTI sequences |
+| ⏱️ [**stl-monitor**](https://github.com/lakhanqurban/stl-monitor) | Runtime verification framework using Signal Temporal Logic (STL); quantitative robustness analysis across 1,000+ simulated scenarios |
 | 🛣️ [**prioritization**](https://github.com/lakhanqurban/prioritization) | Coverage-guided road selection and prioritization for efficient ADS testing (SANER 2026) |
 | 🗺️ [**OpenCat**](https://github.com/lakhanqurban/OpenCat) | OpenDRIVE → Catmull-Rom spline converter, improving interoperability across ADS simulation toolchains |
 | 🧭 [**vslam**](https://github.com/lakhanqurban/vslam) | Modular Visual SLAM framework — ORB feature extraction, loop-closure detection, trajectory refinement; 79% trajectory drift reduction, 92% loop-closure effectiveness |
@@ -62,24 +62,38 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=Gu2DNYsA
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-**CPS & Autonomous Systems**
+**🤖 Robotics & Autonomous Systems**
 <p align="left">
-  <img src="https://img.shields.io/badge/CARLA_Simulator-000000?style=flat" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udacity-02B3E4?style=flat&logo=udacity&logoColor=white" />
+  <img src="https://img.shields.io/badge/CARLA-000000?style=flat&logo=carla&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_SLAM-6DB33F?style=flat" />
+  <img src="https://img.shields.io/badge/Visual_Odometry-0078D4?style=flat" />
   <img src="https://img.shields.io/badge/Gazebo-CC3311?style=flat" />
-  <img src="https://img.shields.io/badge/SLAM-555555?style=flat" />
-  <img src="https://img.shields.io/badge/Isaac_Lab-76B900?style=flat&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-8A2BE2?style=flat" />
+  <img src="https://img.shields.io/badge/Sensor_Fusion-FF6F00?style=flat" />
 </p>
 
-**ML & Data Analysis**
+**🧠 ML & Data Analysis**
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLMs-3B5BDB?style=flat" />
+</p>
+
+**🔬 Research Methods**
+<p align="left">
+  <img src="https://img.shields.io/badge/Empirical_Evaluation-28A745?style=flat" />
+  <img src="https://img.shields.io/badge/Simulation--based_Testing-17A2B8?style=flat" />
+  <img src="https://img.shields.io/badge/Test_Prioritization-FC0F00?style=flat" />
+  <img src="https://img.shields.io/badge/Robustness_Assessment-6F42C1?style=flat" />
 </p>
 
 ---
