@@ -58,6 +58,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=Gu2DNYsA
 ### 🛠️ Tech Stack
 
 **💻 Programming & Tooling**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Pub%2FSub%20%E2%80%A2%20Dataflow%20%E2%80%A2%20BigQuery-4285F4?logo=googlecloud&logoColor=white)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
@@ -85,6 +86,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=Gu2DNYsA
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-3.15.1-0194E2" />
   <img src="https://img.shields.io/badge/VLMs-3B5BDB?style=flat" />
 </p>
 
