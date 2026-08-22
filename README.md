@@ -59,7 +59,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=Gu2DNYsA
 
 **💻 Programming & Tooling**
 <p align="left">
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Pub%2FSub%20%E2%80%A2%20Dataflow%20%E2%80%A2%20BigQuery-4285F4?logo=googlecloud&logoColor=white)
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
