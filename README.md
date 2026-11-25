@@ -30,6 +30,7 @@ PhD in Computer Science at the **University of Milano-Bicocca** (2023–2026), d
 
 ### 📄 Selected Publications
 
+- **Beyond Ensemble Disagreement: Predictive STL Monitoring of RL Locomotion under Distribution Shift** — *UWM-CoRL* (1st author) — [arXiv](https://arxiv.org/abs/2611.02218)
 - **Coverage-Guided Road Selection and Prioritization for Efficient Testing in ADS** — *SANER 2026* (1st author) — [arXiv](https://arxiv.org/abs/2601.08609)
 - **OpenCat: Improving Interoperability of ADS Testing** — *ICSE-DeepTest 2025* (1st author) — [arXiv](https://arxiv.org/abs/2502.07719)
 - **Testing in the Evolving World of DL Systems: Insights from Python GitHub Projects** — *QRS 2024* (1st author) — [arXiv](https://arxiv.org/abs/2405.19976)
