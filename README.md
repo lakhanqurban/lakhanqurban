@@ -104,7 +104,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=Gu2DNYsA
 ### 🎤 Conferences & Service
 
 - Presenter — SANER 2026 (Cyprus), ICSE 2025 (Ottawa), QRS 2024 (Cambridge, UK)
-- Reviewer — IEEE Access, VTCS, SJCMS
+- Reviewer — IEEE Access, NeurIPS 2026 Robotics World Modeling Workshop, CoRL SPAIS 2026, VTCS, SJCMS
 - Editorial Board member — International Journal of Computing and Related Technologies (IJCRT)
 - Member — IEEE / ACM
 
